@@ -16,7 +16,7 @@ This Power BI project explores a fictional retail dataset to uncover insights ar
 
 ## 📸 Dashboard Preview
 
-![Dashboard Overview](Dashboard_Overview.png)
+![Dashboard Overview](Dashboard_Overview.jpeg)
 
 ## 💡 Insights
 - Technology leads sales volume, but Furniture has higher profit margin
